@@ -1,1 +1,1 @@
-sIMPLE ABD POINTLESS os
+A simple OS built in assembly.
